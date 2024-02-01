@@ -1,4 +1,4 @@
-property chktexbin : "/usr/texbin/"
+property chktexbin : "/Library/TeX/texbin/"
 
 (*
 ChkTeX for BBEdit

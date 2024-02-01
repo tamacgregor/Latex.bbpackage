@@ -1,8 +1,8 @@
 -- by Nathan Grigg
 
 -- User configurable variables
-property texbin : "/usr/texbin"
-property gitbin : "/usr/local/bin"
+property texbin : "/Library/TeX/texbin/"
+property gitbin : "/usr/bin/"
 property viewer : "Skim"
 
 ------ Main typeset script ------
